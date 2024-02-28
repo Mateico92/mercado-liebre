@@ -3,3 +3,8 @@
     "express": "^4.18.2"
   }
 }
+
+"scripts": {
+  "test": "nodemon app.js",
+    "start": "node app.js"
+}
