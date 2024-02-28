@@ -123,3 +123,16 @@ Mis compras
     border: 1px solid #ccc;
   }
 }
+
+
+
+    <form action="/crear-producto" method="POST">
+        <div>
+            <label>Nombre del producto</label>
+            <input type="contrasena"><input>
+        </div>
+        <div> <Label>
+            Precio del producto
+        </Label>
+    </div>
+    </form>
